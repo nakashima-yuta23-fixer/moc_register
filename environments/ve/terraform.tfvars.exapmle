@@ -1,0 +1,8 @@
+customer_code          = ""
+environment            = ""
+environment_code       = ""
+primary_location       = ""
+primary_locaation_code = ""
+dr_location            = ""
+dr_location_code       = ""
+jumpbox_vm_admin_password = ""

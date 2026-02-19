@@ -52,3 +52,6 @@ terraform.rc
 # ##############################
 # Reference | https://future-architect.github.io/arch-guidelines/documents/forTerraform/terraform_guidelines.html#gitignore
 .terraform.lock.hcl
+
+# Scripts
+scripts/Set-EnvVersForTerraform.ps1
